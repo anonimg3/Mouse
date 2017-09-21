@@ -14,7 +14,6 @@ public class Main {
         int x, y;
 
         System.out.println("Please insert mouse position:");
-
         try (Scanner scanner = new Scanner(System.in)) {
             try {
                 System.out.print("X:");
